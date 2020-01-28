@@ -12,5 +12,5 @@ def oxford_comma(array)
   end
 end
 
-xford_comma(array)
+oxford_comma(array)
 
